@@ -1,0 +1,3 @@
+	<TestCaseName id="$testCaseID$" description="$TestCaseDescription$">
+		$testCaseStep$
+	</TestCaseName>

@@ -1,0 +1,9 @@
+	<TestCaseStep>
+			<Child-Steps>$Child-Steps$</Child-Steps>
+			<Child-Status>$Child-Status$</Child-Status>
+			<Child-ImagePath>$Child-ImagePath$</Child-ImagePath>
+			<Child-ExecutionTime>$Child-ExecutionTime$</Child-ExecutionTime>
+			<Child-Remarks>$Child-Remarks$</Child-Remarks>
+			<StepStatus>$StepStatus$</StepStatus>
+	</TestCaseStep>
+	$testCaseStep$
